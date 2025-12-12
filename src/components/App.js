@@ -17,7 +17,8 @@ const App = () => {
           setInput(e.target.value);
         }}
       />
-      <h1>Sum: {sum}</h1>
+      <p>Sum: {sum}</p>
+      <h1></h1>
     </div>
   );
 };
